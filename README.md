@@ -81,3 +81,19 @@ Machine learning model development and evaluation
 Interpreting and visualizing model output
 
 Writing modular Python scripts suitable for analysis workflows
+
+📊 Executive Business Impact
+
+This project bridges predictive analytics and strategic retail decision-making. By leveraging machine learning models to forecast sales and analyze promotional pricing behavior, it provides actionable insights into how pricing strategies influence demand patterns.
+
+The analytical framework enables retailers to:
+
+Move from reactive to proactive pricing decisions
+
+Estimate the potential return on promotional campaigns
+
+Reduce uncertainty in revenue forecasting
+
+Improve operational planning through accurate demand projections
+
+This solution illustrates how advanced analytics can transition from model experimentation to real-world commercial application, positioning machine learning as a driver of measurable business value rather than purely predictive performance.
